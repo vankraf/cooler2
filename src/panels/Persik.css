@@ -1,0 +1,11 @@
+.Persik {
+  display: block;
+<<<<<<< HEAD
+  width: 100%;
+  max-width: 500px;
+=======
+  width: 90%;
+  max-width: 350px;
+>>>>>>> first commit
+  margin: 20px auto;
+}
